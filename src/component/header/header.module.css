@@ -1,0 +1,16 @@
+@media screen and (max-width:700px){
+    .ParentDiv{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width:90%;
+        margin: auto;
+        align-items: center;
+        height: 50px;
+    }
+    .text{
+        font-weight:700;
+        font-size: 1.4rem;
+        font-family: 'Noto Sans JP', sans-serif;
+    }
+} 

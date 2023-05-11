@@ -1,0 +1,30 @@
+@media screen and (max-width: 700px) {
+  .mainDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    height: 40px;
+  }
+  .flexDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  .img {
+    margin-right: 1.6rem;
+  }
+  .insideDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .text {
+    color: #afb9ca;
+  }
+}

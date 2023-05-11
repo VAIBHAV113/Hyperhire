@@ -1,0 +1,54 @@
+@media screen and (max-width: 700px) {
+  .ParentDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 2rem;
+  }
+  .ImgDiv {
+    margin-right: 0.5rem;
+  }
+  .text {
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 600;
+    margin-right: 0.3rem;
+  }
+  .Tick {
+    margin-right: 0.3rem;
+    color: #919eb6;
+  }
+  .text2 {
+    color: #919eb6;
+  }
+  .img {
+    height: 42px;
+    width: 45px;
+  }
+  .FirstDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .InsideDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .btn {
+    background-color: #01b99f;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 70px;
+    height: 32px;
+    border-radius: 999px;
+    border: 0px;
+  }
+}

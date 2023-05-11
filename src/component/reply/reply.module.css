@@ -1,0 +1,94 @@
+@media screen and (max-width: 700px) {
+  .text {
+    font-family: "Noto Sans JP", sans-serif;
+    font-weight: 600;
+    margin-right: 0.3rem;
+  }
+  .Tick {
+    margin-right: 0.3rem;
+    color: #919eb6;
+  }
+  .ImgDiv {
+    margin-right: 0.5rem;
+  }
+  .img {
+    height: 32px;
+    width: 37px;
+  }
+  .InsideDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .FirstDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .ParentDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin: auto;
+    margin-top: 1rem;
+  }
+  .comm {
+    width: 75%;
+    margin-top: 5rem;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 12px;
+    margin: auto;
+  }
+  .tt {
+    color: #313b49;
+    margin-top: 0.6rem;
+    line-height: 22px;
+    width:100%;
+  }
+  .ParentDiv2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    width: 75%;
+    margin: auto;
+    height: 30px;
+  }
+  .ParentDiv3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: right;
+    width: 75%;
+    margin:auto;
+    margin-top: 0.8rem;
+  }
+
+  .com{
+    width: 60%;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding-left: 20px;
+    margin: auto;
+  }
+  .ParentDiv4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    width: 60%;
+    margin: auto;
+    height: 30px;
+  }
+  .mainDiv{
+    height:max-content;
+    padding-bottom:1rem;
+  }
+}
